@@ -4,6 +4,7 @@ A collection of classic design patterns implemented in PHP with examples and tes
 
 ## 📂 Patterns Implemented
 ✅ [Singleton](src/Creational/Singleton/README.md) (Creational)
+✅ [Singleton](src/Creational/Singleton/README.md) (Creational)
 
 More patterns coming soon...
 
